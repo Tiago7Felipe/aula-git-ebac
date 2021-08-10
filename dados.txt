@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Tiago Soares
+-Profissão: Analista de Testes
+-Cidade: Belo Horizonte
+-O que faz nas horas vaga: Series e Filmes
+-Feedback sobre o curso Qualidade de Software: Curso com ótimo conteúdo
+-Feedback sobre a plataforma de estudo da EBAC: Precisa melhorar o carregamento das aulas, as vezes precisa ficar atualizando várias vezes a página.
 
 Obrigado!!!
 
